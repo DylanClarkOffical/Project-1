@@ -1,7 +1,6 @@
 ## Project-1 
- -using OpenCV to detect objects captured by a Phone camera 
- 
-  -object tracking is done on the computer where the data is put together  
+  - using OpenCV to detect objects captured by a Phone camera 
+  - object tracking is done on the computer where the data is put together  
 
   ## libaries 
 
