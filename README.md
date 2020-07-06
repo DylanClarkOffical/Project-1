@@ -1,4 +1,11 @@
 # Project-1 
+   ## about this project 
+      - this project is a personal project that im working on:
+        - achive the following
+          - get a better understaning of how python and its liberies work
+          - explore Computer vision 
+          - improve writing of modualar code 
+
   - Using OpenCV to detect objects captured by a Phone camera.
   - Object tracking is done on the computer where the data is put together.
 
