@@ -5,10 +5,10 @@
           - get a better understaning of how python and its liberies work
           - explore Computer vision 
           - improve writing of modualar code 
-# Objectives of the program
+# Objectives of the program 
   - Using OpenCV to detect objects captured by a Phone camera.
   - Object tracking is done on the computer where the data is put together.
-   ## Objects it can capture 
+   ## Objects it can capture (so far)
    1. Faces
 
 
