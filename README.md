@@ -1,4 +1,4 @@
-# Project-1 
+# Project-1 (Object Detection with OpenCV)
    ## about this project 
       - this project is a personal project that im working on:
         - achive the following
