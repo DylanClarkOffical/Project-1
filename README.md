@@ -22,4 +22,22 @@
    | apps used     | Link (if avalible)        
    | ------------- |:-------------:| 
    | IP WEBCAM     | [Link to the IP WEBCAM apllication(Android)](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_US)      |   
+   
+## other requirements 
+1. Python 
+   https://www.python.org/downloads/
+2. GIT 
+   https://github.com/git-guides/install-git
+3. 
+
+#### Getting started 
+-- Linux
+`clone the source` to your computer in a location that you want Eg: a directory you keep your projects in
+
+`git clone https://github.com/DylanClarkOffical/Project-1.git`
+
+-- give the main.py permsiisons 
+`chmod +x main.py`
+-- esercute it with 
+`./main.py`
 
