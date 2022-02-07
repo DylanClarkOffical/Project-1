@@ -1,3 +1,4 @@
+# PROJECT NOT CURRENTLY IN ACTIVE DEVELOPMENT 
 # Project-1 (Object Detection with OpenCV)
    # About this project 
       - this project is a personal project that im working on:
